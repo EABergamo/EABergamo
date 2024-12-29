@@ -1,3 +1,7 @@
 👋 Hi there!
 
-Welcome to my website! My name is Enzo Bergamo, and I am [Penn World Scholar](https://global.upenn.edu/isss/penn-world-scholars) currently pursuing both a Bachelor's Degree and a Master's Degree in Systems Science & Engineering at the [University of Pennsylvania School of Engineering and Applied Science](https://www.seas.upenn.edu/). I am originally from São Paulo, Brazil and I currently live in Philadelphia, Pennsylvania. My interests lie in areas such as machine learning, data visualization, optimization, as well as the application of these topics in different ways. For more contact informationa and more, feel free to access [enzobergamo.com](https://www.enzobergamo.com).
+I am a first-year Ph.D. student in the Operations, Information & Decisions department at the Wharton School of the University of Pennsylvania.
+
+I have received my Bachelor’s and Master’s Degree in Systems Science & Engineering at the University of Pennsylvania School of Engineering and Applied Science where I was a Penn World Scholar.
+
+My research interests center around the use of machine learning techniques to understand and optimize decision-making in operations management problems. For more contact informationa and more, please access [enzobergamo.com](https://www.enzobergamo.com).
